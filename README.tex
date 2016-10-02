@@ -6,15 +6,16 @@
 \begin{document}
 \subsection*{P1}
 \subsection*{P2}
-(2)
-Use \textit{drawDE.m} to use subdivision methods that yeilds a polygonal line which approximates \textit{Bezier curve}. \\
-For example if we input $n = 5 , \; t = \frac{1}{2}$ and a series points through screen: 
+(2) 
+The \textit{drawDE.m} uses the de Casteljau subdivision method and  yields a polygonal line which approximates \textit{Bezier curve}. The variable $n$ is the number of iterations and $t$ is the size of the subdivision. For example if we input $n = 5 , \; t = \frac{1}{2}$ and a series points through screen: 
 \begin{lstlisting}[language=Matlab]
-n = 5; % iterate times 
+n = 5; % number of iterations
 t = 1/2; % t 
-[x,y] = ginput(); %screen input the data 
+%% User input of the data
+[x,y] = ginput();  
 d = [x,y]; % d(i,:) i = 1,2,.. represents a point 
 d = sortrows(d); % sort our data 
+%% Run the subdivision and draw curve
 b = calculateDE(d, n, t); 
 % calculate the points used to draw the curve 
 b = sortrows(b); % sort our data 
