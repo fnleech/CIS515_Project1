@@ -1,11 +1,12 @@
-n = 4;
-[x,y] = ginput();
-d = [x,y];
-d = sortrows(d);
-b = calculateDE(d, n);
-b = sortrows(b);
-plot(d(:,1), d(:,2), 'r*');
+n = 4; % iterate times 
+t = 1/2; % t 
+[x,y] = ginput(); %screen input the data 
+d = [x,y]; % d(i,:) i = 1,2,.. represents a point 
+d = sortrows(d); % sort our data 
+b = calculateDE(d, n, t); % calculate the points used to draw the curve 
+b = sortrows(b); % sort our data 
+plot(d(:,1), d(:,2), 'r*'); % draw the input data d
 hold on;
-plot(b(:,1), b(:,2), 'b-')
+plot(b(:,1), b(:,2), 'b-') % draw our curve 
 title('Bezier Curve')
 
