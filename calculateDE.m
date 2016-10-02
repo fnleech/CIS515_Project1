@@ -1,4 +1,8 @@
 function [p] = calculateDE( b, n, t)
+% CHEN XIANG
+% 2016.10.2
+% calculate points on the curve  
+% subdivision version of de Casteljau algorithm
 p = []; % points used to draw the curve 
 depth = 0; % iterate time 
 [p,~] = calculateDEsub(b, p, depth, n, t);

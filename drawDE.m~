@@ -1,0 +1,11 @@
+n = 4; % iterate times 
+[x,y] = ginput(); %screen input the data 
+d = [x,y]; % d(i,:) i = 1,2
+d = sortrows(d);
+b = calculateDE(d, n);
+b = sortrows(b);
+plot(d(:,1), d(:,2), 'r*');
+hold on;
+plot(b(:,1), b(:,2), 'b-')
+title('Bezier Curve')
+

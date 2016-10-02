@@ -1,4 +1,8 @@
-n = 4; % iterate times 
+% CHEN XIANG
+% 2016.10.2
+% draw the curve 
+% subdivision version of de Casteljau algorithm
+n = 5; % iterate times 
 t = 1/2; % t 
 [x,y] = ginput(); %screen input the data 
 d = [x,y]; % d(i,:) i = 1,2,.. represents a point 
