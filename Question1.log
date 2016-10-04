@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  2 OCT 2016 14:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  4 OCT 2016 10:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -215,10 +215,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--36
 
  []
 
-<5Points.jpg, id=1, 3276.24pt x 2457.18pt>
-File: 5Points.jpg Graphic file (type jpg)
- <use 5Points.jpg>
-Package pdftex.def Info: 5Points.jpg used on input line 37.
+<6Points.jpg, id=1, 3276.24pt x 2457.18pt>
+File: 6Points.jpg Graphic file (type jpg)
+ <use 6Points.jpg>
+Package pdftex.def Info: 6Points.jpg used on input line 37.
 (pdftex.def)             Requested size: 327.64319pt x 245.73239pt.
 LaTeX Font Info:    Try loading font information for U+msa on input line 40.
 
@@ -231,58 +231,63 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 40.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./5Poin
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./6Poin
 ts.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
 
  []
 
-<6Points.jpg, id=11, 3276.24pt x 2457.18pt>
-File: 6Points.jpg Graphic file (type jpg)
- <use 6Points.jpg>
-Package pdftex.def Info: 6Points.jpg used on input line 67.
+[2] <5Points.jpg, id=14, 3276.24pt x 2457.18pt>
+File: 5Points.jpg Graphic file (type jpg)
+ <use 5Points.jpg>
+Package pdftex.def Info: 5Points.jpg used on input line 75.
 (pdftex.def)             Requested size: 327.64319pt x 245.73239pt.
- [2 <./6Points.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 104--106
+ [3 <./5Points.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
 
  []
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+<4Points.jpg, id=18, 3276.24pt x 2457.18pt>
+File: 4Points.jpg Graphic file (type jpg)
+ <use 4Points.jpg>
+Package pdftex.def Info: 4Points.jpg used on input line 109.
+(pdftex.def)             Requested size: 327.64319pt x 245.73239pt.
+ [4 <./4Points.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
 
  []
 
-[5] (./Question1.aux) ) 
+[5] [6] (./Question1.aux) ) 
 Here is how much of TeX's memory you used:
- 2849 strings out of 493014
- 34893 string characters out of 6133351
+ 2854 strings out of 493014
+ 34967 string characters out of 6133351
  112827 words of memory out of 5000000
- 6356 multiletter control sequences out of 15000+600000
+ 6360 multiletter control sequences out of 15000+600000
  9747 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,8n,24p,399b,130s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy8.pfb>
-Output written on Question1.pdf (5 pages, 2935693 bytes).
+</usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy8.pfb>
+Output written on Question1.pdf (6 pages, 4114598 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 54 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
