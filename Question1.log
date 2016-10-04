@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  4 OCT 2016 10:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  4 OCT 2016 12:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -211,21 +211,21 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Underfull \hbox (badness 10000) in paragraph at lines 33--36
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
 
  []
 
 <6Points.jpg, id=1, 3276.24pt x 2457.18pt>
 File: 6Points.jpg Graphic file (type jpg)
  <use 6Points.jpg>
-Package pdftex.def Info: 6Points.jpg used on input line 37.
+Package pdftex.def Info: 6Points.jpg used on input line 39.
 (pdftex.def)             Requested size: 327.64319pt x 245.73239pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 40.
+LaTeX Font Info:    Try loading font information for U+msa on input line 42.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 40.
+LaTeX Font Info:    Try loading font information for U+msb on input line 42.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -233,37 +233,37 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./6Poin
 ts.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
 
  []
 
 [2] <5Points.jpg, id=14, 3276.24pt x 2457.18pt>
 File: 5Points.jpg Graphic file (type jpg)
  <use 5Points.jpg>
-Package pdftex.def Info: 5Points.jpg used on input line 75.
+Package pdftex.def Info: 5Points.jpg used on input line 77.
 (pdftex.def)             Requested size: 327.64319pt x 245.73239pt.
  [3 <./5Points.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 106--108
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
 
  []
 
 <4Points.jpg, id=18, 3276.24pt x 2457.18pt>
 File: 4Points.jpg Graphic file (type jpg)
  <use 4Points.jpg>
-Package pdftex.def Info: 4Points.jpg used on input line 109.
+Package pdftex.def Info: 4Points.jpg used on input line 111.
 (pdftex.def)             Requested size: 327.64319pt x 245.73239pt.
  [4 <./4Points.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
@@ -284,7 +284,7 @@ msfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy8.pfb>
-Output written on Question1.pdf (6 pages, 4114598 bytes).
+Output written on Question1.pdf (6 pages, 4115623 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
